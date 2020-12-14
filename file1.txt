@@ -1,7 +1,0 @@
-this is first file.
-added second line.
-added third line.3rd commit
-added fourthline.4th commit
-added fifth line.5th commit
-added sixth line.6th commit
-added seventh line.7th commit 8th commit
